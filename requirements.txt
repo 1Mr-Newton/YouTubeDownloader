@@ -1,0 +1,4 @@
+pytube==12.1.0
+moviepy==1.0.3
+pytest-shutil==1.7.0
+ffmpeg-python==0.2.0
